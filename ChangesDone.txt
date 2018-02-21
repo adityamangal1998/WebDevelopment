@@ -1,1 +1,0 @@
-Changed Link to home page i.e. Changed the link home.html in events page to index.html
